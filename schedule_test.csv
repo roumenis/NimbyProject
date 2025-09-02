@@ -1,0 +1,9 @@
+departure_time,arrival_time,origin,destination
+05:00,05:30,A,B
+05:40,06:10,B,A
+06:20,06:50,A,B
+07:00,07:30,B,A
+08:00,08:30,A,B
+09:00,09:30,B,A
+10:30,11:00,A,B
+11:10,11:40,B,A
